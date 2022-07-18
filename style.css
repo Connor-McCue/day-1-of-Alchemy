@@ -1,3 +1,24 @@
+
 body{
     background-color: bisque;
+}
+
+p {
+    color: darkseagreen;
+
+}
+.very-cool {
+    color: lime;
+
+}
+.box {
+    color: red;
+    width: 100px
+    height: 100px
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px
+
 }
